@@ -2,62 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ab927e2-15c0-469b-9321-9bcee6268340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bookmark_new.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/.idea/bookmark.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/templates/bookmark/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/templates/bookmark/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/templates/bookmark/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/templates/bookmark/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/templates/bookmark/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/bookmark/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/config/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/config/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/config/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmark3-master/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,11 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="212">
+              <caret line="122" column="47" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -94,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -276,7 +221,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -287,7 +232,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33039647" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33039647" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -413,17 +358,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="122" column="47" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
         </state>
       </provider>
     </entry>
